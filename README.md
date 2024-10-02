@@ -35,12 +35,15 @@ Install them by running:
 pip install pandas matplotlib
 ## 🚀 Usage
 Clone this repository:
+```bash
 git clone https://github.com/your-username/your-repo-name.git
+
 Navigate to the project directory and ensure the dataset (student_scores_random_names.csv) is in the same directory as main.py.
 ## 📝 Outputs
-Excel Export: The program generates an Excel file (students_scores.xlsx) with average scores for each subject by semester.
-Visualizations:
-Bar charts for each subject’s average score by semester.
-Line plot showing the overall average score across semesters.
+- **Excel Export**: The program generates an Excel file (`students_scores.xlsx`) with average scores for each subject by semester.
+- **Visualizations**:
+  - Bar charts for each subject’s average score by semester.
+  - Line plot showing the overall average score across semesters.
+
 
 
