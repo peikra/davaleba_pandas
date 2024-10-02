@@ -40,6 +40,14 @@ git clone https://github.com/your-username/your-repo-name.git
 
 
 
+## 📝 Outputs
+- **Excel Export**: The program generates an Excel file (`students_scores.xlsx`) with average scores for each subject by semester.
+- **Visualizations**:
+  - Bar charts for each subject’s average score by semester.
+  - Line plot showing the overall average score across semesters.
+
+
+
  
 
 
