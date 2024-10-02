@@ -34,9 +34,9 @@ Install them by running: pip install pandas matplotlib
 
 
 ## 🚀 Usage
-Clone this repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+Clone this repository:git clone https://github.com/your-username/your-repo-name.git
+
+
 
 
 
