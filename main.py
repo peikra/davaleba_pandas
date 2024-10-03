@@ -5,8 +5,8 @@ from visualisation import Show
 def main():
 
     data = pd.read_csv('student_scores_random_names.csv')
-    data.fillna(0,inplace=True)
-    st = Students_Score(data)
+    df =pd.DataFrame(data)
+    st = Students_Score(df)
 
 
     print("სტუდენტები, რომლებიც რომელიმე საგანში ჩაიჭრნენ: ")

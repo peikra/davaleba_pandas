@@ -16,6 +16,7 @@ class Students_Score:
         ]
         failed_students_list = failed_students['Student'].unique()
 
+
         return failed_students_list
 
     def mean_each_semester(self):
